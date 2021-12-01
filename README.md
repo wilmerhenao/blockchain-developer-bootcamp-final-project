@@ -1,11 +1,16 @@
 # SPANISH21
 
-The program runs locally at http://localhost:3000 Web3.js and React
+The program runs locally at http://localhost:3000 
+
+Uses Web3.js and React
 
 My address for the NFT is: 0x3aCB510a50D29bb5e560fAC20B104c8D5DC9a357
 
 Please check the video on YouTube to see how everything works:
 https://youtu.be/j4A9h6I7kaU
+
+The contract is deployed with 2 Ether to Ropsten:
+0xbE1926b7B29581C0f8E6C7877205BDd2a721A2D1
 
 ### Installing the dapp
 
