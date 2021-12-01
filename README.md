@@ -6,8 +6,11 @@ Uses Web3.js and React
 
 My address for the NFT is: 0x3aCB510a50D29bb5e560fAC20B104c8D5DC9a357
 
-Please check the video on YouTube (with volume on) to see how everything works:
-https://youtu.be/j4A9h6I7kaU
+The video is available as an MP4 file in this repository with good volume: 
+https://github.com/wilmerhenao/blockchain-developer-bootcamp-final-project/blob/master/Spanish21Video.mp4
+
+Please check the video on YouTube to see how everything works (volume not working so good):
+https://youtu.be/j4A9h6I7kaU 
 
 The contract is deployed with 2 Ether to the Ropsten Network:
 0xbE1926b7B29581C0f8E6C7877205BDd2a721A2D1
