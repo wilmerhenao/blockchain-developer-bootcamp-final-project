@@ -4,7 +4,6 @@ pragma solidity 0.7.6;
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/math/SafeMath.sol";
 
-// Parts of this contract were based on projects from previous years
 contract Spanish21 is Ownable{
     using SafeMath for *;
     // @dev Types
