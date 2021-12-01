@@ -9,37 +9,41 @@ My address for the NFT is: 0x3aCB510a50D29bb5e560fAC20B104c8D5DC9a357
 Please check the video on YouTube to see how everything works:
 https://youtu.be/j4A9h6I7kaU
 
-The contract is deployed with 2 Ether to Ropsten:
+The contract is deployed with 2 Ether to the Ropsten Network:
 0xbE1926b7B29581C0f8E6C7877205BDd2a721A2D1
 
 ### Installing the dapp
 
 It's easier to just watch the youtube video.
 
-Start a local Ethereum blockchain with `ganache-cli` and connect to the local blockchain using the mnemonic.
+Start a local Ethereum blockchain with `ganache-cli` and connect to the local blockchain using the mnemonic as explained in the video.
 
-Clone this repository and run the following commands:
+Clone this repository 
 ```
-truffle compile --all \
-truffle test \
+git clone https://github.com/wilmerhenao/blockchain-developer-bootcamp-final-project.git
+```
+
+and run the following commands:
+```
+truffle compile --all
+truffle test
 truffle migrate --reset
 ```
 
-When you are done. Send money to the contract using metamask or any other method.
+When you are done. Send money to the contract you just migrated using metamask or any other method.
 
-Run the following commands and connect the first account to the game via metamask
+Run the following commands and connect THE FIRST metamask account to the game via metamask
 
 ```
-cd client \
+cd client
 npm run start
 ```
 
 ## Deployed addresses
 
-On Ropsten:
+On Ropsten: 0xbE1926b7B29581C0f8E6C7877205BDd2a721A2D1
 
 ## This is the folder tree
-
 
 ```
 .
